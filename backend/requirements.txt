@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain-core
+langchain-community
+langchain-classic
+langgraph
+langchain-ollama
+dspy
+faiss-cpu
+pydantic
+python-dotenv
+requests
+typing-extensions
+mcp-use
+starlette
