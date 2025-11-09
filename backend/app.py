@@ -54,9 +54,7 @@ SIMILARITY_THRESHOLD = float(os.environ.get("SIMILARITY_THRESHOLD", 0.60))
 
 TOP_K = int(os.environ.get("TOP_K", 3))
 
-TAVILY_API_KEY = os.environ.get(
-    "TAVILY_API_KEY", "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"
-)
+TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY")
 
 # Input/Output Guardrails
 BAD_INPUT_KEYWORDS = {
