@@ -21,7 +21,7 @@ A friendly math-tutor web app with a FastAPI backend and a React + Vite frontend
 ## Quick start
 
 ### 0) Prerequisites
-- **Python** 3.10+ and **pip**
+- **Python** 3.12+ and **pip**
 - **Node.js** 18+ and **npm** (npx available)
 - **Ollama** installed and running locally
   - Pull the models used by default:
